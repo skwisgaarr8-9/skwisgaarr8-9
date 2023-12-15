@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on a movie database for bad movies. Look for updates soon!
 
-- 🌱 I’m currently learning GraphQL
-- 📚 I want to learn NextJS
+- 🌱 I’m currently learning NextJS
+- 📚 I want to learn how to effortlessly host on AWS or Azure
 
 - 💬 Ask me about JavaScript or React
 
